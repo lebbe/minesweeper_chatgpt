@@ -1,0 +1,14 @@
+.controls {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  width: 100px;
+}
